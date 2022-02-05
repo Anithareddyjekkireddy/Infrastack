@@ -1,3 +1,7 @@
 This is my first contribution to the project called infrastack
 
 this infrastack project some code
+
+i have made some changes in thirdfile
+
+this is newly added
